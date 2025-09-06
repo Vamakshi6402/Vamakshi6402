@@ -7,18 +7,18 @@
 ---
 
 ## 🔧 Technical Skills  
-- **Economics & Policy Tools:** Stata, R, Python, Excel  
-- **Data Science:** SQL, Tableau, Power BI, econometrics, forecasting, machine learning basics  
+- **Economics & Policy Tools:** Stata, R, Python, Excel (Econometrics, Panel Data, Time Series)  
+- **Data Science:** SQL, Tableau, Power BI, forecasting (familiar with introductory ML concepts)  
 - **Finance:** Portfolio optimization, risk management, asset pricing models  
-- **Communication:** Policy briefs, consulting memos, finance reports, advocacy writing  
-
+- **Communication:** Policy briefs, consulting memos, finance reports, advocacy writing
+  
 ---
 
-## 📂 Featured Projects *(coming soon)*  
-- 📘 Writing Samples – Portfolio of 8 professional writing samples (policy, consulting, finance, advocacy)  
-- 📊 Graduate Unemployment in India – Fixed Effects Panel Regression (2011–2023)  
-- 💹 Financial Market Analysis – Stock volatility modeling and portfolio optimization in Python  
-- 📈 Data Dashboards – Tableau/Power BI dashboards on labor markets, inflation, and trade  
+## 📂 Featured Projects  
+- 📘 [Writing Samples](https://github.com/Vamakshi6402/Writing-Samples) – Portfolio of 8 professional writing samples (policy, consulting, finance, advocacy)  
+- 📊 [Graduate Unemployment in India](https://github.com/Vamakshi6402/Economics-Data-Portfolio) – Fixed Effects Panel Regression (2011–2023)  
+- 💹 [Financial Market Analysis](https://github.com/Vamakshi6402/Finance-Projects) – Stock volatility modeling and portfolio optimization in Python  
+- 📈 [Data Dashboards](https://github.com/Vamakshi6402/Dashboards) – Tableau/Power BI dashboards on labor markets, inflation, and trade  
 
 ---
 
