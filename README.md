@@ -1,6 +1,6 @@
 # Hi, I’m Vamakshi Chaturvedi 👋  
 
-🎓 MSc Economics graduate from the University of Manchester (Merit-level modules with Distinction performances)  
+🎓 MSc Economics graduate from the University of Manchester with Distinction and Merit performances in core modules.  
 📊 Passionate about data analysis, policy research, and financial/economic modeling  
 🌍 Focused on building a career in NYC with global organizations (finance, consulting, tech, and international development)  
 
