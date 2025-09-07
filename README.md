@@ -1,13 +1,13 @@
 # Hi, I’m Vamakshi Chaturvedi 👋  
 
-🎓 MSc Economics graduate from the University of Manchester with Distinction and Merit performances in core modules.  
+🎓 MSc Economics graduate from the University of Manchester with Distinction and Merit achievements in core modules.  
 📊 Passionate about data analysis, policy research, and financial/economic modeling  
 🌍 Focused on building a career in NYC with global organizations (finance, consulting, tech, and international development)  
 
 ---
 
 ## 🔧 Technical Skills  
-- **Economics & Policy Tools:** Stata, R, Python, Excel (Econometrics, Panel Data, Time Series)  
+- **Economics & Policy Tools:** Stata, R, Python, Excel, Econometrics (Panel Data, Time Series)  
 - **Data Science:** SQL, Tableau, Power BI, forecasting (familiar with introductory ML concepts)  
 - **Finance:** Portfolio optimization, risk management, asset pricing models  
 - **Communication:** Policy briefs, consulting memos, finance reports, advocacy writing
