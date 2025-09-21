@@ -30,4 +30,4 @@
 
 ---
 
-⚡ *I enjoy translating complex economic and financial data into clear insights that drive decision-making.*
+**⚡ I enjoy translating complex economic and financial data into clear insights that drive decision-making.**
