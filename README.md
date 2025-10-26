@@ -4,6 +4,8 @@
 📊 Passionate about data analysis, policy research, and financial/economic modeling  
 🌍 Focused on building a career in NYC with global organizations (finance, consulting, tech, and international development)  
 
+I have also curated a 40-story analytical portfolio on [Medium](https://medium.com/@vamakshichaturvedi13), exploring innovation, policy, and sustainability through the lens of economics and data science.
+
 ---
 
 ## 🔧 Technical Skills  
