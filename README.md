@@ -1,35 +1,41 @@
-# Hi, I’m Vamakshi Chaturvedi 👋  
+### 👋 Hi, I'm Vamakshi Chaturvedi  
+**Economist | Applied Micro | Data & Policy Analytics | MSc Economics (Manchester)**  
 
-🎓 MSc Economics graduate from the University of Manchester with Distinction and Merit achievements in core modules.  
-📊 Passionate about data analysis, policy research, and financial/economic modeling  
-🌍 Focused on building a career in NYC with global organizations (finance, consulting, tech, and international development)  
+I work across **econometrics, causal analysis, time-series modelling, and policy evaluation**, applying them to labour markets, capital markets, and international development projects.  
+My focus is on translating complex economic and financial data into insights that support policy, strategy, and innovation.
 
-I have also curated a 40-story analytical portfolio on [Medium](https://medium.com/@vamakshichaturvedi13), exploring innovation, policy, and sustainability through the lens of economics and data science.
+I’ve curated a 40-story analytical portfolio on [Medium](https://medium.com/@vamakshichaturvedi13), writing on economics, policy, innovation, and global resilience.
 
 ---
 
-## 🔧 Technical Skills  
-- **Economics & Policy Tools:** Stata, R, Python, Excel, Econometrics (Panel Data, Time Series)  
-- **Data Science:** SQL, Tableau, Power BI, forecasting (familiar with introductory ML concepts)  
-- **Finance:** Portfolio optimization, risk management, asset pricing models  
-- **Communication:** Policy briefs, consulting memos, finance reports, advocacy writing
-  
+## 🛠️ Technical Skills  
+
+**Econometrics & Policy Tools:** Stata, R, Python, Excel, Panel Data, Time Series  
+**Applied Micro & Evaluation:** Causal inference, impact evaluation, M&E frameworks  
+**Data Analysis:** SQL, data cleaning, forecasting, diagnostics  
+**Policy & Analytics:** Public finance analysis, risk modelling, economic briefs  
+**Communication:** Research papers, policy writing, evaluation reports, analytical storytelling  
+
 ---
 
-## 📂 Featured Projects  
-- 📘 [Writing Samples](https://github.com/Vamakshi6402/Writing-Samples) – Portfolio of 8 professional writing samples (policy, consulting, finance, advocacy)  
-- 📊 [Graduate Unemployment in India](https://github.com/Vamakshi6402/Economics-Data-Portfolio) – Fixed Effects Panel Regression (2011–2023)  
-- 💹 [Financial Market Analysis](https://github.com/Vamakshi6402/Finance-Projects) – Stock volatility modeling and portfolio optimization in Python  
-- 📈 [Data Dashboards](https://github.com/Vamakshi6402/Dashboards) – Tableau/Power BI dashboards on labor markets, inflation, and trade  
+## 📁 Featured Projects  
+
+- **Research Papers** — Graduate + undergraduate + independent research on applied microeconomics, economic analysis, and quantitative policy.  
+- **Awaken Foundation Evaluation** — Cacao value-chain economic evaluation & KPI system (applied econometrics + sustainability).  
+- **Digital Literacy M&E Framework** — Monitoring & Evaluation design, indicators, and data-collection tools for a digital literacy program.  
+- **YAA Grant Research (2025)** — SDG-linked global funding analysis for Youth Advocacy Africa (Nairobi).  
+- **Fraud-Risk Options Brief** — Public finance risk-control brief with KPI structures and rule-based safeguards.  
+- **Writing Samples** — Portfolio of professional writing across economics, consulting, finance, and policy.
 
 ---
 
 ## 🌐 Connect with Me  
+
 - [LinkedIn](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206)  
 - [ORCID](https://orcid.org/0009-0003-3307-783X)  
 - [Medium](https://medium.com/@vamakshichaturvedi13)  
-- 📧 Email: **vamakshichaturvedi156@gmail.com**  
+- 📩 Email: **vamakshichaturvedi156@gmail.com**
 
 ---
 
-**⚡ I enjoy translating complex economic and financial data into clear insights that drive decision-making.**
+⚡ *I translate complex economic and financial data into clear insights that drive decision-making.*
