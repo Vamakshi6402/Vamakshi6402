@@ -1,5 +1,5 @@
 ### 👋 Hi, I'm Vamakshi Chaturvedi  
-**Economist | Applied Micro | Data & Policy Analytics | MSc Economics (Manchester)**  
+**Economist | Applied Micro | Data & Policy Analytics | MSc Economics (The University of Manchester)**  
 
 I work across **econometrics, causal analysis, time-series modelling, and policy evaluation**, applying them to labour markets, capital markets, and international development projects.  
 My focus is on translating complex economic and financial data into insights that support policy, strategy, and innovation.
