@@ -8,7 +8,7 @@ I’ve curated a 40+ story analytical portfolio on Medium, writing on economics,
 
 ---
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 **Econometrics & Policy Tools:** Stata, R, Python, Excel, panel data, time series  
 **Applied Micro & Evaluation:** Causal inference, difference-in-differences, impact evaluation, M&E frameworks  
@@ -19,7 +19,7 @@ I’ve curated a 40+ story analytical portfolio on Medium, writing on economics,
 
 ---
 
-📁 Featured Projects
+## 📁 Featured Projects
 
 - **Executive Decision Memo: Data-Driven Go / No-Go**  
   Synthesizes pricing, causal, experimental, and forecasting analyses into a single executive recommendation under uncertainty.
@@ -38,7 +38,7 @@ I’ve curated a 40+ story analytical portfolio on Medium, writing on economics,
 
 ---
 
-📄 Research & Writing
+## 📄 Research & Writing
 
 - Research papers spanning applied microeconomics, development, labour markets, and policy evaluation  
 - Policy briefs and evaluation reports for NGOs and research organizations  
@@ -46,7 +46,7 @@ I’ve curated a 40+ story analytical portfolio on Medium, writing on economics,
 
 ---
 
-🤝 Connect with me
+## 🤝 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/vamakshi-chaturvedi  
 - ORCID: https://orcid.org/0000-0002-3940-0775  
@@ -55,6 +55,6 @@ I’ve curated a 40+ story analytical portfolio on Medium, writing on economics,
 
 ---
 
-🎯 Signature Strengths
+## 🎯 Signature Strengths
 
 Causal inference for real-world product and policy changes, experimentation discipline (MDE and power), and translating analytical results into clear, decision-oriented guidance under uncertainty.
