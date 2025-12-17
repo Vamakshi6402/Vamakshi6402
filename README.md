@@ -1,41 +1,60 @@
-### 👋 Hi, I'm Vamakshi Chaturvedi  
-**Economist | Applied Micro | Data & Policy Analytics | MSc Economics (The University of Manchester)**  
+## 👋 Hi, I’m Vamakshi Chaturvedi
 
-I work across **econometrics, causal analysis, time-series modelling, and policy evaluation**, applying them to labour markets, capital markets, and international development projects.  
-My focus is on translating complex economic and financial data into insights that support policy, strategy, and innovation.
+Economist | Applied Micro | Data & Policy Analytics | MSc Economics (The University of Manchester)
 
-I’ve curated a 40-story analytical portfolio on [Medium](https://medium.com/@vamakshichaturvedi13), writing on economics, policy, innovation, and global resilience.
+I’m an economist focused on decision-making under uncertainty—pricing and demand analysis, causal impact evaluation, experimentation (A/B testing and power), and forecasting. My work translates complex economic data into clear, leadership-ready recommendations for product, marketplace, and operational decisions.
+
+I’ve curated a 40+ story analytical portfolio on Medium, writing on economics, policy, innovation, and global resilience.
 
 ---
 
-## 🛠️ Technical Skills  
+🛠️ Technical Skills
 
-**Econometrics & Policy Tools:** Stata, R, Python, Excel, Panel Data, Time Series  
-**Applied Micro & Evaluation:** Causal inference, impact evaluation, M&E frameworks  
+**Econometrics & Policy Tools:** Stata, R, Python, Excel, panel data, time series  
+**Applied Micro & Evaluation:** Causal inference, difference-in-differences, impact evaluation, M&E frameworks  
+**Experimentation & Decision Science:** A/B testing, MDE & power analysis, CUPED, experimental readouts  
 **Data Analysis:** SQL, data cleaning, forecasting, diagnostics  
 **Policy & Analytics:** Public finance analysis, risk modelling, economic briefs  
-**Communication:** Research papers, policy writing, evaluation reports, analytical storytelling  
+**Communication:** Research papers, executive memos, policy writing, analytical storytelling  
 
 ---
 
-## 📁 Featured Projects  
+📁 Featured Projects
 
-- **Research Papers** — Graduate + undergraduate + independent research on applied microeconomics, economic analysis, and quantitative policy.  
-- **Awaken Foundation Evaluation** — Cacao value-chain economic evaluation & KPI system (applied econometrics + sustainability).  
-- **Digital Literacy M&E Framework** — Monitoring & Evaluation design, indicators, and data-collection tools for a digital literacy program.  
-- **YAA Grant Research (2025)** — SDG-linked global funding analysis for Youth Advocacy Africa (Nairobi).  
-- **Fraud-Risk Options Brief** — Public finance risk-control brief with KPI structures and rule-based safeguards.  
-- **Writing Samples** — Portfolio of professional writing across economics, consulting, finance, and policy.
+- **Executive Decision Memo: Data-Driven Go / No-Go**  
+  Synthesizes pricing, causal, experimental, and forecasting analyses into a single executive recommendation under uncertainty.
+
+- **Demand Forecasting & Scenario Planning**  
+  End-to-end time-series forecasting with prediction intervals and scenario overlays, translating uncertainty into planning guidance.
+
+- **Experimentation Readout & MDE / Power**  
+  A/B testing toolkit covering experiment readouts, minimum detectable effects, power analysis, CUPED, and decision-focused reporting.
+
+- **Product Rollout Impact Evaluation (Difference-in-Differences)**  
+  Causal evaluation of staggered feature rollouts using DiD, fixed effects, event studies, and robustness reasoning.
+
+- **Marketplace Pricing Elasticity Analysis**  
+  Estimation of price elasticity using panel data and simulation of revenue implications for pricing decisions.
 
 ---
 
-## 🌐 Connect with Me  
+📄 Research & Writing
 
-- [LinkedIn](https://www.linkedin.com/in/vamakshi-chaturvedi-283827206)  
-- [ORCID](https://orcid.org/0009-0003-3307-783X)  
-- [Medium](https://medium.com/@vamakshichaturvedi13)  
-- 📩 Email: **vamakshichaturvedi156@gmail.com**
+- Research papers spanning applied microeconomics, development, labour markets, and policy evaluation  
+- Policy briefs and evaluation reports for NGOs and research organizations  
+- Long-form analytical writing on Medium (40+ published pieces)
 
 ---
 
-⚡ *I translate complex economic and financial data into clear insights that drive decision-making.*
+🤝 Connect with me
+
+- LinkedIn: https://www.linkedin.com/in/vamakshi-chaturvedi  
+- ORCID: https://orcid.org/0000-0002-3940-0775  
+- Medium: https://medium.com/@vamakshi.chaturvedi  
+- Email: vamakshi.chaturvedi@gmail.com
+
+---
+
+🎯 Signature Strengths
+
+Causal inference for real-world product and policy changes, experimentation discipline (MDE and power), and translating analytical results into clear, decision-oriented guidance under uncertainty.
