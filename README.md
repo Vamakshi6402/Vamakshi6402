@@ -4,7 +4,7 @@
 
 I’m an economist focused on **decision-making under uncertainty**—pricing and demand analysis, causal impact evaluation, experimentation (A/B testing and power), and forecasting. My work translates complex economic data into clear, **leadership-ready recommendations** for product, marketplace, and operational decisions.
 
-I’ve curated a 40+ story analytical portfolio on Medium, writing on economics, policy, innovation, and global resilience.
+I’ve also curated a 40+ story analytical portfolio on Medium, writing on economics, policy, innovation, and global resilience.
 
 ---
 
